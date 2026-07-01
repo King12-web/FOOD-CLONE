@@ -5,6 +5,7 @@
 }
 body{
   padding-top: 80px;
+  overflow-x: hiddeng;
 }
 .sec-con{
     background-color: #ffeccc;
